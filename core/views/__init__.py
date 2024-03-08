@@ -1,2 +1,2 @@
 from .user import UserViewSet
-from .categoria import CategoriaViewset
+from .categoria import CategoriaViewSet
